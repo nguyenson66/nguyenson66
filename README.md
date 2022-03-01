@@ -1,4 +1,4 @@
-# Hi, I'm Nguyen Son! <img src="http://sositech.xyz/gif/44.gif" width="64px" height="64px" alt="ami"/>
+# Hi, I'm Nguyen Son! <img src="http://sositech.xyz/gif/44.gif" width="auto" height="64px" alt="ami"/>
 
 <a href="https://www.facebook.com/soicon.66/"
     ><img
@@ -120,6 +120,7 @@
             src="https://github-readme-stats.vercel.app/api?username=nguyenson66&show_icons=true&theme=react&border_color=61dafb&hide_border=true"
         />
     </a>
+    <br>
 </div>
 
 <br>
