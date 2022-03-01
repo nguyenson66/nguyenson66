@@ -87,13 +87,20 @@
 &nbsp;
 <span
     ><img
+        src="https://img.shields.io/badge/Socket.IO-282C34?logo=socket.io&logoColor=F05032"
+        alt="Socket.io"
+        title="Socket.io"
+        height="25"
+/></span>
+&nbsp;
+<span
+    ><img
         src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032"
         alt="git logo"
         title="git"
         height="25"
 /></span>
 &nbsp;
-
 <span
     ><img
         src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC"
