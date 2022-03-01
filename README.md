@@ -23,14 +23,6 @@
 &nbsp;
 <span
     ><img
-        src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6"
-        alt="TypeScript logo"
-        title="TypeScript"
-        height="25"
-/></span>
-&nbsp;
-<span
-    ><img
         src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200"
         alt="Node.js logo"
         title="Node.js"
@@ -50,6 +42,14 @@
         src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248"
         alt="MongoDB logo"
         title="MongoDB"
+        height="25"
+/></span>
+&nbsp;
+<span
+    ><img
+        src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=33ccff"
+        alt="mysql logo"
+        title="Mysql"
         height="25"
 /></span>
 &nbsp;
