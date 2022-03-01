@@ -71,9 +71,9 @@
 &nbsp;
 <span
     ><img
-        src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699"
-        alt="SASS logo"
-        title="SASS"
+        src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=007ACD"
+        alt="java logo"
+        title="java"
         height="25"
 /></span>
 &nbsp;
@@ -90,15 +90,6 @@
         src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032"
         alt="git logo"
         title="git"
-        height="25"
-/></span>
-&nbsp;
-
-<span
-    ><img
-        src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=007ACC"
-        alt="Java"
-        title="Java"
         height="25"
 /></span>
 &nbsp;
