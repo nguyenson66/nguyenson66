@@ -1,4 +1,4 @@
-#Hi, I'm Nguyen Son!
+# Hi, I'm Nguyen Son! <img src="http://sositech.xyz/gif/44.gif" width="64px" height="64px" alt="ami"/>
 
 <a href="https://www.facebook.com/soicon.66/"
     ><img
@@ -115,7 +115,7 @@
     </a>
     <a href="#" title="Sositech">
         <img
-            align="center"
+            align="right"
             width="434"
             src="https://github-readme-stats.vercel.app/api?username=nguyenson66&show_icons=true&theme=react&border_color=61dafb&hide_border=true"
         />
@@ -124,6 +124,11 @@
 
 <br>
 
-<div align="center">
-    ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=default&animation=default&layout=zues&font=default)
+<h2 align="center">📑 Random Quotes 📑</h2>
+<br>
+<!-- https://github.com/shravan20/github-readme-quotes -->
+<div align="right">
+
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=onedark&animation=default&layout=zues&font=default)
+
 </div>
